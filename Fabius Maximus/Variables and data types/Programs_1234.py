@@ -3,7 +3,7 @@
 x = 1 #int
 string = "Abdurraheem" #string
 indian_citizen = False #bool
-income = 9000.2 #float
+income_lpa = 67.01 #float
 
 #2. Convert integer to float
 
@@ -19,5 +19,5 @@ print(num_int)
 #4. Find the type of a variable
 
 print(type(string))
-print(type(income))
+print(type(income_lpa))
 print(type(indian_citizen))
